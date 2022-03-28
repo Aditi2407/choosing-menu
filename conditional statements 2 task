@@ -25,6 +25,7 @@ switch(number)
   case 5:printf("Food Item - French Fries\n");
      	printf("Price-Rs 99\n");
 	    break;
+  default :printf("Not a valid number\n");		    
 }
 return 0;	
 }
